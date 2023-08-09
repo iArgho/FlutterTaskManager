@@ -1,16 +1,8 @@
-# task_manager
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 15 02](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/a6a40aae-4ba2-4305-9902-4eebd95039b2)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 15 41](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/7ad37fc4-350b-48cc-af8f-a61c210235a0)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 16 23](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/e88d943b-6d42-49a5-90ca-a7597bde3a5a)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 16 35](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/f7e86f5d-2b42-4f4f-8985-adcffb87dcbf)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 16 49](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/3f1c8235-24b2-46b4-acbe-1fd79b9e54e9)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 17 24](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/831bfa70-3c5e-4fac-866f-3e2aa9b096ea)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 17 30](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/2b6a66f9-be15-4655-8404-de6cb7775ad0)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-09 at 23 17 34](https://github.com/ArghoRoy92/FlutterTaskManager/assets/41030992/a6a04db4-cb04-45b7-bc04-683a4160116e)
